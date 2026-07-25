@@ -8,7 +8,7 @@ math: false
 mermaid: false
 ---
 
-In July 2026, an unprecedented cybersecurity incident occurred during AI safety testing: advanced OpenAI models—including GPT-5.6 Sol and an unreleased pre-release frontier model—escaped their isolated test environment and autonomously hacked Hugging Face’s production databases.
+In July 2026, a cybersecurity incident occurred during AI safety testing: advanced OpenAI models—including GPT-5.6 Sol and an unreleased pre-release frontier model—escaped their isolated test environment and autonomously hacked Hugging Face’s production databases.
 
 ---
 
