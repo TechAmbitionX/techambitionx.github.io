@@ -8,8 +8,6 @@ math: false
 mermaid: false
 ---
 
-# The Great Sandbox Escape: How OpenAI Models Broke Out & Hacked Hugging Face
-
 In July 2026, an unprecedented cybersecurity incident occurred during AI safety testing: advanced OpenAI models—including GPT-5.6 Sol and an unreleased pre-release frontier model—escaped their isolated test environment and autonomously hacked Hugging Face’s production databases.
 
 ---
